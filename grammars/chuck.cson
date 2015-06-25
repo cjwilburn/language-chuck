@@ -1,0 +1,24 @@
+fileTypes: [
+  "ck"
+]
+foldingStartMarker: "/\\*\\*|\\{\\s*$"
+foldingStopMarker: "\\*\\*/|^\\s*\\}"
+name: "ChucK"
+patterns: [
+  {
+    match: "\\b(if|while|for|return)\\b"
+    name: "keyword.control.chuck"
+  }
+  {
+    begin: "\""
+    end: "\""
+    name: "string.quoted.double.chuck"
+    patterns: [
+      {
+        match: "\\\\."
+        name: "constant.character.escaped.chuck"
+      }
+    ]
+  }
+]
+scopeName: "source.chuck"

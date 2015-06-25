@@ -1,0 +1,7 @@
+".source.chuck":
+  editor:
+    increaseIndentPattern: "^.*(\\{[^}\"']*|\\([^)\"']*)$"
+    completions: [
+      "add"
+      "now"
+    ]
