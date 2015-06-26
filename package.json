@@ -1,7 +1,7 @@
 {
   "name": "language-chuck",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "A Conversion of the TextMate bundle.",
   "keywords": [],
   "repository": "https://github.com/cjwilburn/language-chuck",
   "license": "MIT",
