@@ -1,3 +1,3 @@
 # language-chuck package
 
-Conversion from the TextMate bundle.
+ChucK syntax highlighting for Atom.
