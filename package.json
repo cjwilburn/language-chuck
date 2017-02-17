@@ -1,7 +1,7 @@
 {
   "name": "language-chuck",
-  "version": "0.2.0",
-  "description": "A Conversion of the TextMate bundle.",
+  "version": "1.0.0",
+  "description": "ChucK syntax highlighting for Atom.",
   "keywords": [],
   "repository": "https://github.com/cjwilburn/language-chuck",
   "license": "MIT",
