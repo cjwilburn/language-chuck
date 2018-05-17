@@ -60,7 +60,7 @@
     'name': 'support.function.debug.chuck'
   }
   {
-    'match': '\\b(int|float|time|dur|void|same|complex|polar|string)\\b'
+    'match': '\\b(int|float|time|dur|void|same|complex|polar|string|vec3|vec4)\\b'
     'name': 'storage.type.chuck'
   }
   {

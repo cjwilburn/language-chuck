@@ -59,9 +59,9 @@ still going...
     expect(tokens[4]).toEqual value: 'int', scopes: primitiveTypes
 
     {tokens} = grammar.tokenizeLine 'int float time dur void same complex ' +
-      'polar string'
+      'polar string vec3 vec4'
     [
-      'int', 'float', 'time', 'dur', 'void', 'same', 'complex', 'polar', 'string'
+      'int', 'float', 'time', 'dur', 'void', 'same', 'complex', 'polar', 'string', 'vec3', 'vec4'
     ].forEach (element, index, arr) ->
       expect(tokens[index * 2]).toEqual value: element, scopes: primitiveTypes
 
