@@ -1,0 +1,478 @@
+'.source.chuck':
+	'SinOsc':
+		'prefix': 'SinOsc'
+		'body': 'SinOsc'
+	'TriOsc':
+		'prefix': 'TriOsc'
+		'body': 'TriOsc'
+	'SqrOsc':
+		'prefix': 'SqrOsc'
+		'body': 'SqrOsc'
+	'SawOsc':
+		'prefix': 'SawOsc'
+		'body': 'SawOsc'
+	'PulseOsc':
+		'prefix': 'PulseOsc'
+		'body': 'PulseOsc'
+	'Phasor':
+		'prefix': 'Phasor'
+		'body': 'Phasor'
+	'Noise':
+		'prefix': 'Noise'
+		'body': 'Noise'
+	'Impulse':
+		'prefix': 'Impulse'
+		'body': 'Impulse'
+	'Step':
+		'prefix': 'Step'
+		'body': 'Step'
+	'Gain':
+		'prefix': 'Gain'
+		'body': 'Gain'
+	'SndBuf':
+		'prefix': 'SndBuf'
+		'body': 'SndBuf'
+	'SndBuf2':
+		'prefix': 'SndBuf2'
+		'body': 'SndBuf2'
+	'HalfRect':
+		'prefix': 'HalfRect'
+		'body': 'HalfRect'
+	'FullRect':
+		'prefix': 'FullRect'
+		'body': 'FullRect'
+	'Mix2':
+		'prefix': 'Mix2'
+		'body': 'Mix2'
+	'Pan2':
+		'prefix': 'Pan2'
+		'body': 'Pan2'
+	'GenX':
+		'prefix': 'GenX'
+		'body': 'GenX'
+	'CurveTable':
+		'prefix': 'CurveTable'
+		'body': 'CurveTable'
+	'WarpTable':
+		'prefix': 'WarpTable'
+		'body': 'WarpTable'
+	'LiSa':
+		'prefix': 'LiSa'
+		'body': 'LiSa'
+	'Envelope':
+		'prefix': 'Envelope'
+		'body': 'Envelope'
+	'ADSR':
+		'prefix': 'ADSR'
+		'body': 'ADSR'
+	'Delay':
+		'prefix': 'Delay'
+		'body': 'Delay'
+	'DelayL':
+		'prefix': 'DelayL'
+		'body': 'DelayL'
+	'DelayA':
+		'prefix': 'DelayA'
+		'body': 'DelayA'
+	'Echo':
+		'prefix': 'Echo'
+		'body': 'Echo'
+	'JCRev':
+		'prefix': 'JCRev'
+		'body': 'JCRev'
+	'NRev':
+		'prefix': 'NRev'
+		'body': 'NRev'
+	'PRCRev':
+		'prefix': 'PRCRev'
+		'body': 'PRCRev'
+	'Chorus':
+		'prefix': 'Chorus'
+		'body': 'Chorus'
+	'Modulate':
+		'prefix': 'Modulate'
+		'body': 'Modulate'
+	'PitShift':
+		'prefix': 'PitShift'
+		'body': 'PitShift'
+	'SubNoise':
+		'prefix': 'SubNoise'
+		'body': 'SubNoise'
+	'Blit':
+		'prefix': 'Blit'
+		'body': 'Blit'
+	'BlitSaw':
+		'prefix': 'BlitSaw'
+		'body': 'BlitSaw'
+	'BlitSquare':
+		'prefix': 'BlitSquare'
+		'body': 'BlitSquare'
+	'WvIn':
+		'prefix': 'WvIn'
+		'body': 'WvIn'
+	'WaveLoop':
+		'prefix': 'WaveLoop'
+		'body': 'WaveLoop'
+	'WvOut':
+		'prefix': 'WvOut'
+		'body': 'WvOut'
+	'OneZero':
+		'prefix': 'OneZero'
+		'body': 'OneZero'
+	'TwoZero':
+		'prefix': 'TwoZero'
+		'body': 'TwoZero'
+	'OnePole':
+		'prefix': 'OnePole'
+		'body': 'OnePole'
+	'TwoPole':
+		'prefix': 'TwoPole'
+		'body': 'TwoPole'
+	'PoleZero':
+		'prefix': 'PoleZero'
+		'body': 'PoleZero'
+	'BiQuad':
+		'prefix': 'BiQuad'
+		'body': 'BiQuad'
+	'Filter':
+		'prefix': 'Filter'
+		'body': 'Filter'
+	'LPF':
+		'prefix': 'LPF'
+		'body': 'LPF'
+	'HPF':
+		'prefix': 'HPF'
+		'body': 'HPF'
+	'BPF':
+		'prefix': 'BPF'
+		'body': 'BPF'
+	'ResonZ':
+		'prefix': 'ResonZ'
+		'body': 'ResonZ'
+	'Dyno':
+		'prefix': 'Dyno'
+		'body': 'Dyno'
+	'StkInstrument':
+		'prefix': 'StkInstrument'
+		'body': 'StkInstrument'
+	'BandedWG':
+		'prefix': 'BandedWG'
+		'body': 'BandedWG'
+	'BlowBotl':
+		'prefix': 'BlowBotl'
+		'body': 'BlowBotl'
+	'BlowHole':
+		'prefix': 'BlowHole'
+		'body': 'BlowHole'
+	'Bowed':
+		'prefix': 'Bowed'
+		'body': 'Bowed'
+	'Brass':
+		'prefix': 'Brass'
+		'body': 'Brass'
+	'Clarinet':
+		'prefix': 'Clarinet'
+		'body': 'Clarinet'
+	'Flute':
+		'prefix': 'Flute'
+		'body': 'Flute'
+	'Mandolin':
+		'prefix': 'Mandolin'
+		'body': 'Mandolin'
+	'ModalBar':
+		'prefix': 'ModalBar'
+		'body': 'ModalBar'
+	'Moog':
+		'prefix': 'Moog'
+		'body': 'Moog'
+	'Saxofony':
+		'prefix': 'Saxofony'
+		'body': 'Saxofony'
+	'Shakers':
+		'prefix': 'Shakers'
+		'body': 'Shakers'
+	'Sitar':
+		'prefix': 'Sitar'
+		'body': 'Sitar'
+	'StifKarp':
+		'prefix': 'StifKarp'
+		'body': 'StifKarp'
+	'VoicForm':
+		'prefix': 'VoicForm'
+		'body': 'VoicForm'
+	'FM':
+		'prefix': 'FM'
+		'body': 'FM'
+	'BeeThree':
+		'prefix': 'BeeThree'
+		'body': 'BeeThree'
+	'FMVoices':
+		'prefix': 'FMVoices'
+		'body': 'FMVoices'
+	'HevyMetl':
+		'prefix': 'HevyMetl'
+		'body': 'HevyMetl'
+	'PercFlut':
+		'prefix': 'PercFlut'
+		'body': 'PercFlut'
+	'Rhodey':
+		'prefix': 'Rhodey'
+		'body': 'Rhodey'
+	'TubeBell':
+		'prefix': 'TubeBell'
+		'body': 'TubeBell'
+	'Wurley':
+		'prefix': 'Wurley'
+		'body': 'Wurley'
+	'UGen':
+		'prefix': 'UGen'
+		'body': 'UGen'
+	'Chubgraph':
+		'prefix': 'Chubgraph'
+		'body': 'Chubgraph'
+	'Chugen':
+		'prefix': 'Chugen'
+		'body': 'Chugen'
+	'FilterBasic':
+		'prefix': 'FilterBasic'
+		'body': 'FilterBasic'
+	'FilterStk':
+		'prefix': 'FilterStk'
+		'body': 'FilterStk'
+	'LiSa10':
+		'prefix': 'LiSa10'
+		'body': 'LiSa10'
+	'Gen5':
+		'prefix': 'Gen5'
+		'body': 'Gen5'
+	'Gen9':
+		'prefix': 'Gen9'
+		'body': 'Gen9'
+	'Gen7':
+		'prefix': 'Gen7'
+		'body': 'Gen7'
+	'Gen10':
+		'prefix': 'Gen10'
+		'body': 'Gen10'
+	'Gen17':
+		'prefix': 'Gen17'
+		'body': 'Gen17'
+	'CNoise':
+		'prefix': 'CNoise'
+		'body': 'CNoise'
+	'BLT':
+		'prefix': 'BLT'
+		'body': 'BLT'
+	'UAna':
+		'prefix': 'UAna'
+		'body': 'UAna'
+	'UAnaBlob':
+		'prefix': 'UAnaBlob'
+		'body': 'UAnaBlob'
+	'Windowing':
+		'prefix': 'Windowing'
+		'body': 'Windowing'
+	'FFT':
+		'prefix': 'FFT'
+		'body': 'FFT'
+	'IFFT':
+		'prefix': 'IFFT'
+		'body': 'IFFT'
+	'DCT':
+		'prefix': 'DCT'
+		'body': 'DCT'
+	'IDCT':
+		'prefix': 'IDCT'
+		'body': 'IDCT'
+	'Centroid':
+		'prefix': 'Centroid'
+		'body': 'Centroid'
+	'Flux':
+		'prefix': 'Flux'
+		'body': 'Flux'
+	'RMS':
+		'prefix': 'RMS'
+		'body': 'RMS'
+	'RollOff':
+		'prefix': 'RollOff'
+		'body': 'RollOff'
+	'Flip':
+		'prefix': 'Flip'
+		'body': 'Flip'
+	'pilF':
+		'prefix': 'pilF'
+		'body': 'pilF'
+	'AutoCorr':
+		'prefix': 'AutoCorr'
+		'body': 'AutoCorr'
+	'XCorr':
+		'prefix': 'XCorr'
+		'body': 'XCorr'
+	'ZeroX':
+		'prefix': 'ZeroX'
+		'body': 'ZeroX'
+	'Std':
+		'prefix': 'Std'
+		'body': 'Std'
+	'Math':
+		'prefix': 'Math'
+		'body': 'Math'
+	'Shred':
+		'prefix': 'Shred'
+		'body': 'Shred'
+	'RegEx':
+		'prefix': 'RegEx'
+		'body': 'RegEx'
+	'Object':
+		'prefix': 'Object'
+		'body': 'Object'
+	'Machine':
+		'prefix': 'Machine'
+		'body': 'Machine'
+	'Event':
+		'prefix': 'Event'
+		'body': 'Event'
+	'MidiIn':
+		'prefix': 'MidiIn'
+		'body': 'MidiIn'
+	'MidiOut':
+		'prefix': 'MidiOut'
+		'body': 'MidiOut'
+	'OscRecv':
+		'prefix': 'OscRecv'
+		'body': 'OscRecv'
+	'OscOut':
+		'prefix': 'OscOut'
+		'body': 'OscOut'
+	'MidiMsg':
+		'prefix': 'MidiMsg'
+		'body': 'MidiMsg'
+	'OscEvent':
+		'prefix': 'OscEvent'
+		'body': 'OscEvent'
+	'OscSend':
+		'prefix': 'OscSend'
+		'body': 'OscSend'
+	'Hid':
+		'prefix': 'Hid'
+		'body': 'Hid'
+	'HidMsg':
+		'prefix': 'HidMsg'
+		'body': 'HidMsg'
+	'OscMsg':
+		'prefix': 'OscMsg'
+		'body': 'OscMsg'
+	'IO':
+		'prefix': 'IO'
+		'body': 'IO'
+	'FileIO':
+		'prefix': 'FileIO'
+		'body': 'FileIO'
+	'StdOut':
+		'prefix': 'StdOut'
+		'body': 'StdOut'
+	'StdErr':
+		'prefix': 'StdErr'
+		'body': 'StdErr'
+	'SerialIO':
+		'prefix': 'SerialIO'
+		'body': 'SerialIO'
+	'MidiMsgOut':
+		'prefix': 'MidiMsgOut'
+		'body': 'MidiMsgOut'
+	'KBHit':
+		'prefix': 'KBHit'
+		'body': 'KBHit'
+	'ABSaturator':
+		'prefix': 'ABSaturator'
+		'body': 'ABSaturator'
+	'AmbPan3':
+		'prefix': 'AmbPan3'
+		'body': 'AmbPan3'
+	'Bitcrusher':
+		'prefix': 'Bitcrusher'
+		'body': 'Bitcrusher'
+	'MagicSine':
+		'prefix': 'MagicSine'
+		'body': 'MagicSine'
+	'KasFilter':
+		'prefix': 'KasFilter'
+		'body': 'KasFilter'
+	'FIR':
+		'prefix': 'FIR'
+		'body': 'FIR'
+	'Pan4':
+		'prefix': 'Pan4'
+		'body': 'Pan4'
+	'Pan8':
+		'prefix': 'Pan8'
+		'body': 'Pan8'
+	'Pan16':
+		'prefix': 'Pan16'
+		'body': 'Pan16'
+	'PitchTrack':
+		'prefix': 'PitchTrack'
+		'body': 'PitchTrack'
+	'GVerb':
+		'prefix': 'GVerb'
+		'body': 'GVerb'
+	'Mesh2D':
+		'prefix': 'Mesh2D'
+		'body': 'Mesh2D'
+	'Spectacle':
+		'prefix': 'Spectacle'
+		'body': 'Spectacle'
+	'Elliptic':
+		'prefix': 'Elliptic'
+		'body': 'Elliptic'
+	'WinFuncEnv':
+		'prefix': 'WinFuncEnv'
+		'body': 'WinFuncEnv'
+	'PowerADSR':
+		'prefix': 'PowerADSR'
+		'body': 'PowerADSR'
+	'FoldbackSaturator':
+		'prefix': 'FoldbackSaturator'
+		'body': 'FoldbackSaturator'
+	'WPDiodeLadder':
+		'prefix': 'WPDiodeLadder'
+		'body': 'WPDiodeLadder'
+	'WPKorg35':
+		'prefix': 'WPKorg35'
+		'body': 'WPKorg35'
+	'adc':
+		'prefix': 'adc'
+		'body': 'adc'
+	'dac':
+		'prefix': 'dac'
+		'body': 'dac'
+	'blackhole':
+		'prefix': 'blackhole'
+		'body': 'blackhole'
+	'for':
+	    'prefix': 'for'
+	    'body': """
+	    for(,,)
+	    {}
+	    """
+	'while':
+		'prefix': 'while'
+		'body': """
+		while()
+		{}
+		"""
+	'if':
+		'prefix': 'if'
+		'body': """
+		if()
+		{}
+		"""
+	'else':
+		'prefix': 'else'
+		'body': """
+		else
+		{}
+		"""
+	'debug':
+		'prefix': 'debug'
+		'body': '<<<  >>>'
