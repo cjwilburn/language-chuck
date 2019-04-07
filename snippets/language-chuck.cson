@@ -452,7 +452,7 @@
 	'for':
 	    'prefix': 'for'
 	    'body': """
-	    for(,,)
+	    for(;;)
 	    {}
 	    """
 	'while':
